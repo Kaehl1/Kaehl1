@@ -1,4 +1,6 @@
-# ¡Hola! 👋 Bienvenid@ a mi perfil de GitHub
+![Header](https://capsule-render.vercel.app/api?type=waving2&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=¡Hola!%20Soy%20Kaehl%20👋&fontSize=40&animation=twinkling&fontColor=ffffff)
+
+# Bienvenid@ a mi perfil de GitHub
 
 ---
 
