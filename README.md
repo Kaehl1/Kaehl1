@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving2&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=¡Hola!%20Soy%20Kaehl%20👋&fontSize=40&animation=twinkling&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=30:1a1b26,60:d97706,100:f59e0b&height=220&section=header&text=¡Hola!%20Soy%20Kaehl%20🔥&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=%20&descSize=0&stroke=1a1b26&strokeWidth=2)
 
 # Bienvenid@ a mi perfil de GitHub
 
