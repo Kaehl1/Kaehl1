@@ -1,0 +1,64 @@
+<svg fill="none" width="100%" height="210" viewBox="0 0 800 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fireGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26" />
+      <stop offset="50%" stop-color="#c2410c" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+
+    <linearGradient id="fireGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26" />
+      <stop offset="60%" stop-color="#d97706" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+
+    <clipPath id="clipLine1">
+      <rect x="0" y="0" width="0" height="210">
+        <animate attributeName="width" values="0; 800; 800; 0" keyTimes="0; 0.28; 0.9; 1" dur="7.5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+
+    <clipPath id="clipLine2">
+      <rect x="0" y="0" width="0" height="210">
+        <animate attributeName="width" values="0; 0; 800; 800; 0" keyTimes="0; 0.3; 0.72; 0.9; 1" dur="7.5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .bg { fill: #1a1b26; }
+
+    /* Estilo Línea Principal */
+    .title {
+      font-family: 'Ubuntu', 'Segoe UI', Roboto, sans-serif;
+      font-weight: 800;
+      font-size: 38px;
+      fill: #ffffff;
+      text-anchor: middle;
+    }
+
+    /* Estilo Subtítulo Dorado */
+    .subtitle {
+      font-family: 'Ubuntu', 'Segoe UI', Roboto, sans-serif;
+      font-weight: 700;
+      font-size: 21px;
+      fill: #f59e0b;
+      text-anchor: middle;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" rx="10" />
+
+  <path fill="url(#fireGrad1)" opacity="0.55" d="M 0,125 C 150,75 250,175 400,125 C 550,75 680,165 800,115 L 800,210 L 0,210 Z" />
+
+  <path fill="url(#fireGrad2)" d="M 0,150 C 180,105 290,190 450,140 C 610,90 710,160 800,135 L 800,210 L 0,210 Z" />
+
+  <g clip-path="url(#clipLine1)">
+    <text x="400" y="82" class="title">¡Hola! Soy Kaehl</text>
+  </g>
+
+  <g clip-path="url(#clipLine2)">
+    <text x="400" y="122" class="subtitle">Bienvenid@ a mi perfil de GitHub</text>
+  </g>
+</svg>
