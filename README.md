@@ -16,8 +16,11 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kaehl1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaehl1&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaehl1&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="165" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaehl1&layout=compact&theme=tokyonight&hide_border=true&height=210&langs_count=10" alt="Lenguajes más usados" height="210" />
+
 </p>
 
 ---
