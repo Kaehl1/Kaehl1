@@ -1,8 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=30:1a1b26,60:d97706,100:f59e0b&height=220&section=header&text=¡Hola!%20Soy%20Kaehl%20🔥&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=%20&descSize=0&stroke=1a1b26&strokeWidth=2)
+![Header](assets/header_kaehl.svg)
 
-# Bienvenid@ a mi perfil de GitHub
-
----
+# Estudiante de 2ºDAM en IES Leonardo Da Vinci Madrid
 
 ### 🛠️ Lenguajes y Tecnologías
 
